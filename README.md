@@ -1,4 +1,4 @@
-# passport-wechat
+# passport-wechat2
 
 A Fork of [passport-wechat](https://github.com/liangyali/passport-wechat), but compatible with 
 the [loopback](loopback.io) framework.
