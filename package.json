@@ -1,6 +1,6 @@
 {
   "name": "passport-wechat2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "description": "Fork of passport-wechat, but compatible with loopback framework",
   "bugs": "https://github.com/weflex/passport-wechat2/issues",
